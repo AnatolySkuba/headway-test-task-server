@@ -9,7 +9,7 @@
         { "id": "3", "letter": "C", "answer": "Berlin" },
         { "id": "4", "letter": "D", "answer": "Rome" }
       ],
-      "correct_answer": "B",
+      "correct_answers": ["B"],
       "money": 500
     },
     {
@@ -21,7 +21,7 @@
         { "id": "3", "letter": "C", "answer": "Mark Twain" },
         { "id": "4", "letter": "D", "answer": "William Shakespeare" }
       ],
-      "correct_answer": "B",
+      "correct_answers": ["B"],
       "money": 500
     },
     {
@@ -33,7 +33,7 @@
         { "id": "3", "letter": "C", "answer": "Fe" },
         { "id": "4", "letter": "D", "answer": "Hg" }
       ],
-      "correct_answer": "B",
+      "correct_answers": ["B"],
       "money": 1000
     },
     {
@@ -45,7 +45,7 @@
         { "id": "3", "letter": "C", "answer": "Venus" },
         { "id": "4", "letter": "D", "answer": "Saturn" }
       ],
-      "correct_answer": "A",
+      "correct_answers": ["A"],
       "money": 1000
     },
     {
@@ -57,7 +57,7 @@
         { "id": "3", "letter": "C", "answer": "Leonardo da Vinci" },
         { "id": "4", "letter": "D", "answer": "Salvador Dalí" }
       ],
-      "correct_answer": "C",
+      "correct_answers": ["C"],
       "money": 2000
     },
     {
@@ -69,7 +69,7 @@
         { "id": "3", "letter": "C", "answer": "Mount Fuji" },
         { "id": "4", "letter": "D", "answer": "Mount McKinley" }
       ],
-      "correct_answer": "A",
+      "correct_answers": ["A"],
       "money": 2000
     },
     {
@@ -81,7 +81,7 @@
         { "id": "3", "letter": "C", "answer": "George R.R. Martin" },
         { "id": "4", "letter": "D", "answer": "Stephen King" }
       ],
-      "correct_answer": "B",
+      "correct_answers": ["B"],
       "money": 4000
     },
     {
@@ -93,7 +93,7 @@
         { "id": "3", "letter": "C", "answer": "Dollar" },
         { "id": "4", "letter": "D", "answer": "Pound" }
       ],
-      "correct_answer": "A",
+      "correct_answers": ["A"],
       "money": 4000
     },
     {
@@ -105,7 +105,7 @@
         { "id": "3", "letter": "C", "answer": "Yuri Gagarin" },
         { "id": "4", "letter": "D", "answer": "Alan Shepard" }
       ],
-      "correct_answer": "A",
+      "correct_answers": ["A"],
       "money": 8000
     },
     {
@@ -117,7 +117,7 @@
         { "id": "3", "letter": "C", "answer": "Pacific Ocean" },
         { "id": "4", "letter": "D", "answer": "Arctic Ocean" }
       ],
-      "correct_answer": "C",
+      "correct_answers": ["C"],
       "money": 8000
     },
     {
@@ -129,7 +129,7 @@
         { "id": "3", "letter": "C", "answer": "Barack Obama" },
         { "id": "4", "letter": "D", "answer": "George W. Bush" }
       ],
-      "correct_answer": "A",
+      "correct_answers": ["A"],
       "money": 16000
     },
     {
@@ -141,7 +141,7 @@
         { "id": "3", "letter": "C", "answer": "Nikola Tesla" },
         { "id": "4", "letter": "D", "answer": "Marie Curie" }
       ],
-      "correct_answer": "B",
+      "correct_answers": ["B"],
       "money": 16000
     },
     {
@@ -153,7 +153,7 @@
         { "id": "3", "letter": "C", "answer": "Heart" },
         { "id": "4", "letter": "D", "answer": "Skin" }
       ],
-      "correct_answer": "D",
+      "correct_answers": ["D"],
       "money": 32000
     },
     {
@@ -165,7 +165,7 @@
         { "id": "3", "letter": "C", "answer": "Pablo Picasso" },
         { "id": "4", "letter": "D", "answer": "Leonardo da Vinci" }
       ],
-      "correct_answer": "B",
+      "correct_answers": ["B"],
       "money": 32000
     },
     {
@@ -177,7 +177,7 @@
         { "id": "3", "letter": "C", "answer": "Greece" },
         { "id": "4", "letter": "D", "answer": "France" }
       ],
-      "correct_answer": "A",
+      "correct_answers": ["A"],
       "money": 64000
     },
     {
@@ -189,7 +189,7 @@
         { "id": "3", "letter": "C", "answer": "Tennessee Williams" },
         { "id": "4", "letter": "D", "answer": "George Bernard Shaw" }
       ],
-      "correct_answer": "A",
+      "correct_answers": ["A"],
       "money": 64000
     },
     {
@@ -201,7 +201,7 @@
         { "id": "3", "letter": "C", "answer": "Asia" },
         { "id": "4", "letter": "D", "answer": "North America" }
       ],
-      "correct_answer": "C",
+      "correct_answers": ["C"],
       "money": 125000
     },
     {
@@ -213,7 +213,7 @@
         { "id": "3", "letter": "C", "answer": "Ernest Hemingway" },
         { "id": "4", "letter": "D", "answer": "Mark Twain" }
       ],
-      "correct_answer": "B",
+      "correct_answers": ["B"],
       "money": 125000
     },
     {
@@ -225,7 +225,7 @@
         { "id": "3", "letter": "C", "answer": "Au" },
         { "id": "4", "letter": "D", "answer": "Pb" }
       ],
-      "correct_answer": "B",
+      "correct_answers": ["B"],
       "money": 250000
     },
     {
@@ -237,7 +237,7 @@
         { "id": "3", "letter": "C", "answer": "Rembrandt" },
         { "id": "4", "letter": "D", "answer": "Pablo Picasso" }
       ],
-      "correct_answer": "B",
+      "correct_answers": ["B"],
       "money": 250000
     },
     {
@@ -249,7 +249,7 @@
         { "id": "3", "letter": "C", "answer": "Gandalf" },
         { "id": "4", "letter": "D", "answer": "Legolas" }
       ],
-      "correct_answer": "A",
+      "correct_answers": ["A"],
       "money": 500000
     },
     {
@@ -261,7 +261,7 @@
         { "id": "3", "letter": "C", "answer": "Saturn" },
         { "id": "4", "letter": "D", "answer": "Uranus" }
       ],
-      "correct_answer": "C",
+      "correct_answers": ["C"],
       "money": 500000
     },
     {
@@ -273,7 +273,7 @@
         { "id": "3", "letter": "C", "answer": "Vincent van Gogh" },
         { "id": "4", "letter": "D", "answer": "Salvador Dalí" }
       ],
-      "correct_answer": "B",
+      "correct_answers": ["B"],
       "money": 1000000
     },
     {
@@ -285,7 +285,7 @@
         { "id": "3", "letter": "C", "answer": "Kalahari Desert" },
         { "id": "4", "letter": "D", "answer": "Arabian Desert" }
       ],
-      "correct_answer": "A",
+      "correct_answers": ["A"],
       "money": 1000000
     }
   ]
