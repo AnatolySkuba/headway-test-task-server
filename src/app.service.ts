@@ -14,7 +14,7 @@ async function readFileAsync(filePath: string): Promise<string> {
 export class AppService {
   async getQuestions() {
     try {
-      const fileData = await readFileAsync('src/data2.json');
+      const fileData = await readFileAsync('src/data.json');
       const jsonData = JSON.parse(fileData);
       return jsonData;
     } catch (error) {
