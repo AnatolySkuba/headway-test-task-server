@@ -16,9 +16,11 @@ export class AppService {
     try {
       const fileData = await readFileAsync('src/data.json');
       const jsonData = JSON.parse(fileData);
+
       return jsonData;
     } catch (error) {
       console.error(error);
+
       return null;
     }
   }
